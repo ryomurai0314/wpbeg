@@ -5,7 +5,7 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="format-detection" content="telephone=no">
-		<title>page | wpbeg-static</title>
+		<title>page | wpbg-static</title>
 		<meta name="description" content="WordPress theme development static data for beginners">
 		<meta name="keywords" content="WordPress, Theme, development">
 		<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/earlyaccess/mplus1p.css">
