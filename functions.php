@@ -72,10 +72,15 @@
         }
     add_action( 'after_setup_theme', 'wpbeg_theme_setup' );
 
-    function register_my_menus() { 
-        register_nav_menus( array( 
+    function register_my_menus() {
+        register_nav_menus( array(
           'main-menu' => 'Main Menu',
           'footer-menu'  => 'Footer Menu',
         ) );
       }
       add_action( 'after_setup_theme', 'register_my_menus' );
+
+    function wp_favicon_delete(){
+        exit;
+        }
+    add_action("do_faviconico", "wp_favicon_delete");
